@@ -45,7 +45,8 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="526" height="199" alt="image" src="https://github.com/user-attachments/assets/b220b584-a50e-4151-b8ba-5f9939f09007" />
+
 
 ---
 
@@ -53,25 +54,39 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 ## CONNECTION DIAGRAM  
 **Setting up a Digital Link**
 
-*(Insert connection diagram here)*
+<img width="514" height="135" alt="image" src="https://github.com/user-attachments/assets/cf4ac45d-a686-45c0-9c6b-3fbe65453086" />
+
 
 ---
 
 ## TABULATION  
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+![WhatsApp Image 2025-11-17 at 04 11 54_3767da54](https://github.com/user-attachments/assets/00bf0793-b0fc-4117-b50a-a4a519fcde97)
+
+
+| Frequency | Output Signal (Vo) | Gain (Vp/Vi) | Gain in dB |
+|-----------|---------------------|--------------|-------------|
+| 1 kHz     | 3.48 V             | 0.496        | -6.09       |
+| 5 kHz     | 4.74 V             | 0.948        | -0.46       |
+| 10 kHz    | 9.75 V             | 1.98         | 5.823       |
+| 20 kHz    | 11.47 V            | 2.294        | 7.211       |
+| 50 kHz    | 12.90 V            | 2.58         | 8.23        |
+| 75 kHz    | 12.85 V            | 2.58         | 8.23        |
+| 100 kHz   | 10.85 V            | 2.17         | 6.729       |
+| 150 kHz   | 8.47 V             | 2.17         | 6.729       |
+| 250 kHz   | 5.48 V             | 1.694        | 4.576       |
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="704" height="339" alt="image" src="https://github.com/user-attachments/assets/992b3de5-6186-4aac-b256-e9ae012ba458" />
+
+![WhatsApp Image 2025-11-17 at 04 12 57_a462129b](https://github.com/user-attachments/assets/03735349-7b3d-4c07-92bd-aeb2e7501189)
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Hence, the relationship between input and received signal of a 600nm fiber optic cable using digital link is verified
